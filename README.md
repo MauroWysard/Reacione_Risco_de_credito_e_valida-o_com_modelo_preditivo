@@ -1,4 +1,4 @@
-# Reacione_Risco_de_credito_e_valida-o_com_modelo_preditivo
+Risco_de_credito_e_validação_com_modelo_preditivo
 
 Instituições financeiras que concedem crédito precisam de constante controle da razão entre clientes adimplentes e inadimplentes, ou seja, existe um esforço para que a quantidade de clientes adimplentes seja suficiente para cobrir o déficit gerado pelos inadimplentes e mesmo assim gerar lucro.
 
