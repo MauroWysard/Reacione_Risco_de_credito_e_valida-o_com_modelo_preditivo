@@ -1,0 +1,9 @@
+# Reacione_Risco_de_credito_e_valida-o_com_modelo_preditivo
+
+Instituições financeiras que concedem crédito precisam de constante controle da razão entre clientes adimplentes e inadimplentes, ou seja, existe um esforço para que a quantidade de clientes adimplentes seja suficiente para cobrir o déficit gerado pelos inadimplentes e mesmo assim gerar lucro.
+
+Para atingir este objetivo, além da captação de novos clientes, é necessário estimular a adimplência do quadro de clientes existente e controlar os clientes que tendem a entrar em inadimplência. Este controle pode ser feito de diversas formas, reduzindo a quantidade de crédito cedido, quantidade de aquisições em um período determinado ou até mesmo, em casos mais graves, bloqueando a carteira de crédito do cliente. Sendo assim, é extremamente necessário ter um profundo conhecimento da base de dados e comportamento dos indivíduos enquanto clientes, para que a tomada de decisão por parte da instituição seja a mais assertiva possível.
+
+Metodologias de análise causativa preditiva são uma importante ferramenta para traçar tendencias de comportamento dentro de uma base de dados. O que possibilita criar modelos analíticos guiados pelo histórico de pagamento e antecipar a probabilidade de um cliente entrar em débito com a credora.
+
+Com esta finalidade, uma instituição financeira encomendou um estudo para quantificar clientes inadimplentes dentro de seu banco de cadastros e traçar similaridades entre perfis de clientes que os levem a tornarem-se inadimplentes. O objetivo específico é filtrar a carteira de clientes e tornar o programa de quitação de dívidas mais eficiente, evitar que um cliente venha a se tornar inadimplente ou recomendar melhores condições de quitação da dívida. Ao mesmo tempo, as análises e dados utilizados serão implementados em algoritmos de preditivos através do aprendizado de máquina.
